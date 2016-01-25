@@ -1,0 +1,28 @@
+name: mainframefx
+favicon: null
+layout_spectrum: 0.44127284549176693
+typography_spectrum: 0.30894318013451993
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.1907594173680991
+  lightness: 0.6631188793107867
+  saturation: 0.18017235514707863
+  rhythmicContrast: 0.25812265230342746
+purpose: []

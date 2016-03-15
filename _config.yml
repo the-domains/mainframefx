@@ -2,6 +2,7 @@ name: mainframefx
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.30894318013451993
+title: mffx
 cta:
   domain: null
   bucket: null

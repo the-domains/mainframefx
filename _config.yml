@@ -29,6 +29,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: LHA
+    id: b42152c4-2642-425e-b205-c6ebe1772a9c
+    type: content
 favicon: null
 title: post & filmproduction
 description: we love pictures

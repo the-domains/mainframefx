@@ -39,6 +39,9 @@ navigation:
   - name: Impressum
     id: 0997e958-cbdf-4bba-8499-b0fa5fffd3c1
     type: content
+  - name: Clients
+    id: 003767ea-da64-475d-a61f-2b23c6b6ec49
+    type: content
 favicon: null
 title: ''
 description: ''

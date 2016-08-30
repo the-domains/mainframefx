@@ -26,10 +26,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: mainframefx
-    id: e5fe3afc-fb0b-4ac3-95b9-ba539031eca9
-    type: content
 favicon: null
 title: ''
 description: ''

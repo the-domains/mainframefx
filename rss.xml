@@ -1,31 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[mainframefx]]></title>
-        <description><![CDATA[mainframefx]]></description>
+        <title><![CDATA[We are better]]></title>
+        <description><![CDATA[We are better]]></description>
         <link>https://thegrid.ai/mainframefx/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Aug 2016 14:46:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2016 15:02:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mainframefx/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f662cc99-6936-4abc-b95d-b70b4147ea51.png">]]></description>
-            <link>https://thegrid.ai/mainframefx/30f9fdac-00e8-4d23-92e7-3c95420bc3f5/index.html</link>
-            <guid isPermaLink="false">30f9fdac-00e8-4d23-92e7-3c95420bc3f5</guid>
-            <pubDate>Sun, 28 Aug 2016 14:46:05 GMT</pubDate>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/891494aa-8caa-4ec0-afaa-17ea61443eeb.jpg">]]></description>
+            <link>https://thegrid.ai/mainframefx/894d0e6c-73eb-460f-9667-8e675c882a2a/index.html</link>
+            <guid isPermaLink="false">894d0e6c-73eb-460f-9667-8e675c882a2a</guid>
+            <pubDate>Sun, 28 Aug 2016 14:56:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f6efb5d-5201-444f-b98f-e3d505625ef9.png">]]></description>
+            <link>https://thegrid.ai/mainframefx/f6ea1bb2-8022-4af0-80ab-35a86052672e/index.html</link>
+            <guid isPermaLink="false">f6ea1bb2-8022-4af0-80ab-35a86052672e</guid>
+            <pubDate>Sun, 28 Aug 2016 14:56:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5d4d90a-04ca-45a1-9c56-8123dd0dc802.jpg">]]></description>
+            <link>https://thegrid.ai/mainframefx/b037aa9f-210b-4588-b15f-f4f4427bf1cf/index.html</link>
+            <guid isPermaLink="false">b037aa9f-210b-4588-b15f-f4f4427bf1cf</guid>
+            <pubDate>Sun, 28 Aug 2016 14:52:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b68bf0f2-efc8-4988-9ea0-a15037ca41bc.png">]]></description>
             <link>https://thegrid.ai/mainframefx/3b7bfd60-b99f-485c-ae17-efb35928c2fe/index.html</link>
             <guid isPermaLink="false">3b7bfd60-b99f-485c-ae17-efb35928c2fe</guid>
-            <pubDate>Sun, 28 Aug 2016 14:42:12 GMT</pubDate>
+            <pubDate>Sun, 28 Aug 2016 14:46:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/807524d3-6fad-4656-8555-efb037298208.png">]]></description>
             <link>https://thegrid.ai/mainframefx/87002efa-6967-4235-b078-7bea7c71fc95/index.html</link>
             <guid isPermaLink="false">87002efa-6967-4235-b078-7bea7c71fc95</guid>
-            <pubDate>Sun, 28 Aug 2016 14:42:11 GMT</pubDate>
+            <pubDate>Sun, 28 Aug 2016 14:46:14 GMT</pubDate>
         </item>
     </channel>
 </rss>

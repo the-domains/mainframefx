@@ -36,6 +36,9 @@ navigation:
   - name: Contact
     id: 2a03a89e-ff2c-4c21-b8a7-470b77289579
     type: content
+  - name: Impressum
+    id: 0997e958-cbdf-4bba-8499-b0fa5fffd3c1
+    type: content
 favicon: null
 title: ''
 description: ''

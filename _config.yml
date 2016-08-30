@@ -39,6 +39,9 @@ navigation:
   - name: Info
     id: 894d0e6c-73eb-460f-9667-8e675c882a2a
     type: content
+  - name: Contact
+    id: f6ea1bb2-8022-4af0-80ab-35a86052672e
+    type: content
 favicon: null
 title: We are better
 description: ''

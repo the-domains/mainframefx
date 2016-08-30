@@ -1,20 +1,4 @@
-name: mainframefx
-favicon: null
-layout_spectrum: 0.25027
 typography_spectrum: 0.30894318013451993
-title: mffx
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#f4f4f2'
@@ -26,4 +10,21 @@ color:
   lightness: 0.6631188793107867
   saturation: 0.18017235514707863
   rhythmicContrast: 0.25812265230342746
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.25027
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: mainframefx
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: mffx
+description: Better the Ever
 purpose: []

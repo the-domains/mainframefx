@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-28T16:46:32.376Z'
+datePublished: '2016-08-28T16:46:40.722Z'
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-28T16:46:29.504Z'
+dateModified: '2016-08-28T16:46:40.237Z'
 title: Impressum
 publisher: {}
 description: >-
@@ -21,8 +21,8 @@ description: >-
   Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur
   ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus,
   tellus eget
-starred: false
 sourcePath: _posts/2016-08-28-impressum.md
+starred: false
 url: impressum/index.html
 _type: Blurb
 

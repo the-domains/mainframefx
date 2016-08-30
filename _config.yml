@@ -29,10 +29,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: Huawai
-    id: 8778fa9a-7cb9-4862-8ce6-18bdec7c8dda
-    type: content
 favicon: null
 title: ''
 description: ''

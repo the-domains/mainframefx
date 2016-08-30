@@ -27,7 +27,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: 3D
+  - name: so what ever you want
     id: 30f9fdac-00e8-4d23-92e7-3c95420bc3f5
     type: content
   - name: 2D

@@ -19,14 +19,17 @@ analytics:
   google: null
   facebook: null
   twitter: null
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4f9ef8a-2e56-4cbd-b9a8-10a90afa754d.jpg
+author:
+  name: mainframefx
+  email: info@mainframefx.com
+  url: 'www,mainframefx.com'
+logo: null
 name: mainframefx
 cta:
   domain: null
   bucket: null
   version: null
 favicon: null
-title: ''
+title: post & filmproduction
 description: ''
 purpose: []

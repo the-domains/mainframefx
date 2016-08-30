@@ -33,9 +33,6 @@ navigation:
   - name: Huawai
     id: 8778fa9a-7cb9-4862-8ce6-18bdec7c8dda
     type: content
-  - name: LHA
-    id: b42152c4-2642-425e-b205-c6ebe1772a9c
-    type: content
 favicon: null
 title: ''
 description: ''

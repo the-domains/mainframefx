@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-08-28T13:41:03.785Z'
+datePublished: '2016-08-28T13:44:26.765Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-28T13:40:51.066Z'
+dateModified: '2016-08-28T13:44:26.356Z'
 title: ''
 publisher: {}
 description: Much Better then You
-starred: false
 sourcePath: _posts/2016-08-28-much-better-then-you.md
-_type: Blurb
+hasPage: true
+starred: false
+url: much-better-then-you/index.html
+_type: Article
 
 ---
 Much Better then You

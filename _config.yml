@@ -27,9 +27,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: 2D
-    id: 3b7bfd60-b99f-485c-ae17-efb35928c2fe
-    type: content
   - name: Info
     id: 894d0e6c-73eb-460f-9667-8e675c882a2a
     type: content

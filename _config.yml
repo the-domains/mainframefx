@@ -30,6 +30,9 @@ navigation:
   - name: mainframefx
     id: e5fe3afc-fb0b-4ac3-95b9-ba539031eca9
     type: content
+  - name: 3D
+    id: 30f9fdac-00e8-4d23-92e7-3c95420bc3f5
+    type: content
 favicon: null
 title: We are better
 description: ''

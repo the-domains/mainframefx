@@ -39,6 +39,9 @@ navigation:
   - name: Clients
     id: 003767ea-da64-475d-a61f-2b23c6b6ec49
     type: content
+  - name: Contact
+    id: 2a03a89e-ff2c-4c21-b8a7-470b77289579
+    type: content
 favicon: null
 title: ''
 description: ''

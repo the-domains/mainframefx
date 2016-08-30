@@ -4,7 +4,7 @@
         <description><![CDATA[mainframefx]]></description>
         <link>https://thegrid.ai/mainframefx/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Aug 2016 14:28:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2016 14:28:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mainframefx/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Much Better then You]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/mainframefx/much-better-then-you/index.html</link>
             <guid isPermaLink="false">e5fe3afc-fb0b-4ac3-95b9-ba539031eca9</guid>
             <pubDate>Sun, 28 Aug 2016 14:25:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/67e36345-1b85-40d5-8737-d2d2f53b9e9e.jpg">]]></description>
-            <link>https://thegrid.ai/mainframefx/764a4605-4a39-4c6b-95cf-501242b7f157/index.html</link>
-            <guid isPermaLink="false">764a4605-4a39-4c6b-95cf-501242b7f157</guid>
-            <pubDate>Sun, 28 Aug 2016 14:06:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
